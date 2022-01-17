@@ -15,6 +15,6 @@ def greeting(name):
   flag = input("Y/N?")
   if flag.lower() == "y":
     letterboxd_profile_url = "https://letterboxd.com/pilot01/"
-    print(f"Follo me on letterboxd:\n {letterboxd_profile_url}")
+    print(f"Follow me on letterboxd:\n {letterboxd_profile_url}")
   return False
 ```
