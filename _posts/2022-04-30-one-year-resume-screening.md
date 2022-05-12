@@ -2,6 +2,10 @@
 layout: post
 title: "One Year Resume Screening"
 date: 2022-04-30
+categories: junk
+author:
+- Mehrshad Baqerzadegan
+meta: "Resume-Screening"
 ---
 <div dir='rtl' align="center">
   <h4>هفت خان رستم - چگونه استخدام شوم و رزومه بسازم؟</h4>
