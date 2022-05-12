@@ -1,3 +1,5 @@
+minima:
+  skin: dark
 theme: minima
 title: Ducks on Moon
 author: Mehrshad Baqerzadegan
