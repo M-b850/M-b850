@@ -10,3 +10,4 @@ twitter_username: sinfulspinoza # DO NOT include the @ character, or else the bu
 github_username:  m-b850 # DO NOT include the @ character, or else the build will fail!
 linkedin_username: mehrshad-baqerzadegan
 show_excerpts: true # set to false to remove excerpts on the homepage
+show_description: false
