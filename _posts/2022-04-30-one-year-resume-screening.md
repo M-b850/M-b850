@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "One Year Resume Screening"
 date: 2022-04-30
 ---
