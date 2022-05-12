@@ -2,8 +2,10 @@ theme: minima
 title: Ducks on Moon
 author: Mehrshad Baqerzadegan
 email: MehrshadBaqerzadegan@gmail.com
-description: >\n # this means to ignore newlines until "baseurl:"
-   I had only a little time left and I didn't want to waste it on God.\n
+description: > # this means to ignore newlines until "baseurl:"
+   Personal blog. You can find more virgool
+   baseurl: "/blog" # the subpath of your site, e.g. /blog
+   I had only a little time left and I didn't want to waste it on God.
    —  Albert Camus, book The Stranger
 # social links
 twitter_username: sinfulspinoza # DO NOT include the @ character, or else the build will fail!
