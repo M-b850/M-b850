@@ -2,7 +2,7 @@
 layout: post
 title: "هفت خان رستم - چگونه استخدام شوم و رزومه بسازم؟"
 date: 2022-04-30
-categories: junk
+categories: HR
 author:
 - Mehrshad Baqerzadegan
 meta: "Resume-Screening"
