@@ -6,12 +6,20 @@ categories: HR
 author:
 - Mehrshad Baqerzadegan
 meta: "Resume-Screening"
+dir: rtl
 ---
+### هفت خان رستم 
+#### چگونه استخدام شوم و رزومه بسازم؟
+![](https://raw.githubusercontent.com/M-b850/M-b850/main/media/5dz0ve5txzyg.png)
 <div dir='rtl' align="center">
   <h4>هفت خان رستم - چگونه استخدام شوم و رزومه بسازم؟</h4>
   <br>
+</div>
+<div align="center">
   <img alt="interview" src="https://raw.githubusercontent.com/M-b850/M-b850/main/media/5dz0ve5txzyg.png">
 </div>
+
+
 <br>
 <p dir='rtl' align='right'>
 بعد از صرف یکسال در واحد منابع‌انسانی و بررسی تقریب بر ۲۰۰۰ رزومه فنی میتونم بگم کمی نسبت به این قضیه آگاه شدم که بتونم درموردش بنویسم و به بقیه چندتا نکته بدم.
