@@ -5,13 +5,12 @@ description: >- # this means to ignore newlines until "baseurl:"
    An individual who tries to graduate from computer science and become a programmer.
 
 author:
-   name: Mehrshad Baqerzadegan
-   email: MehrshadBaqerzadegan@gmail.com
+  name: Mehrshad Baqerzadegan
+  email: MehrshadBaqerzadegan@gmail.com
 
 social_links:
-   linkedin_username: mehrshad-baqerzadegan
-   twitter_username: sinfulspinoza
-   github_username:  m-b850
-
+ twitter: sinfulspinoza
+ github: m-b850
+ linkedin: mehrshad-baqerzadegan
 
 show_excerpts: false
