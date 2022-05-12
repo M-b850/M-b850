@@ -1,5 +1,5 @@
 ---
-title: "1 Year Resume Screening"
+title: "One Year Resume Screening"
 date: 2022-04-30
 ---
 <div dir='rtl' align="center">
