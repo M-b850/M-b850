@@ -4,13 +4,12 @@ title: Ducks on Moon
 description: >- # this means to ignore newlines until "baseurl:"
    An individual who tries to graduate from computer science and become a programmer.
 
-author:
-  name: Mehrshad Baqerzadegan
-  email: MehrshadBaqerzadegan@gmail.com
 
-social_links:
- twitter: sinfulspinoza
- github: m-b850
- linkedin: mehrshad-baqerzadegan
+name: Mehrshad Baqerzadegan
+email: MehrshadBaqerzadegan@gmail.com
+
+twitter_username: sinfulspinoza
+github_username: m-b850
+linkedin_username: mehrshad-baqerzadegan
 
 show_excerpts: false
