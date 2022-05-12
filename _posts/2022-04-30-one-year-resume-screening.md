@@ -6,26 +6,22 @@ categories: HR
 author:
 - Mehrshad Baqerzadegan
 meta: "Resume-Screening"
-dir: rtl
 ---
-### هفت خان رستم 
-#### چگونه استخدام شوم و رزومه بسازم؟
-![](https://raw.githubusercontent.com/M-b850/M-b850/main/media/5dz0ve5txzyg.png)
-<div dir='rtl' align="center">
+<div dir='rtl'>
   <h4>هفت خان رستم - چگونه استخدام شوم و رزومه بسازم؟</h4>
   <br>
-</div>
-<div align="center">
-  <img alt="interview" src="https://raw.githubusercontent.com/M-b850/M-b850/main/media/5dz0ve5txzyg.png">
-</div>
-
-
-<br>
-<p dir='rtl' align='right'>
+  <p>
 بعد از صرف یکسال در واحد منابع‌انسانی و بررسی تقریب بر ۲۰۰۰ رزومه فنی میتونم بگم کمی نسبت به این قضیه آگاه شدم که بتونم درموردش بنویسم و به بقیه چندتا نکته بدم.
 اما به هر حال من هم ممکنه اشتباه کنم و افراد با تجربه تر از من همیشه وجود دارند.
-</p>
+    
+استخدام در اکثر شرکت‌ها، کاری شبیه به هفت‌خان رستم میتونه باشه و خیلی کند پیش میره، شرکت های کمی در ایران دیدم که خیلی سریع فرآیند رو پیش ببرن و بتونید در یک تا دو هفته استخدام شوید.
 
-`````
-First Code
-`````
+همچنین در بعضی مواقع اطلاع رسانی هم به شکل غیر محترمانه‌ای انجام میشه؛
+شاید بی‌احترامی به من باشد اگر رد شدم شخصی اطلاع ندهد و نتوانم درخواست بازخورد از مصاحبه دهم. به هر حال در این نقطه نظرات متفاوت و ممکن است برای شخص دیگر موضوع نباشد.
+  </p>
+  <br>
+  <div align="center">
+    <img alt="interview" src="https://raw.githubusercontent.com/M-b850/M-b850/main/media/5dz0ve5txzyg.png">
+  </div>
+  <br>
+</div>
