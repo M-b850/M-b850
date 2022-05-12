@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "هفت خان رستم - چگونه استخدام شوم و رزومه بسازم؟"
 date: 2022-04-30
 ---
 Hello World
