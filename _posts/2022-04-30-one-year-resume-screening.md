@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "One Year Resume Screening"
+title: "هفت خان رستم - چگونه استخدام شوم و رزومه بسازم؟"
 date: 2022-04-30
 categories: junk
 author:
